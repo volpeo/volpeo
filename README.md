@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Freelance](https://img.shields.io/badge/Status-Freelance-blue)
+![Low Availability](https://img.shields.io/badge/Availability-Low-lightgrey)
 
 <!--
 **volpeo/volpeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
