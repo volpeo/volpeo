@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 <!--
 **volpeo/volpeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
