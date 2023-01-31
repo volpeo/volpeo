@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Freelance](https://img.shields.io/badge/Status-Freelance-blue)
-![Low Availability](https://img.shields.io/badge/Availability-Low-lightgrey)
+![Low Availability](https://img.shields.io/badge/Availability-Medium-lightgrey)
 
 <!--
 **volpeo/volpeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
